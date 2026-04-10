@@ -1,0 +1,7 @@
+// Theme's SCSS
+@media (hover: none) and (width >= 40rem) {
+  .discourse-touch #reply-control .toggle-fullscreen,
+  .mobile-device #reply-control .toggle-fullscreen {
+    display: flex;
+  }
+}

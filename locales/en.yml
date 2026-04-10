@@ -1,0 +1,3 @@
+en:
+  theme_metadata:
+    description: "Restores the fullscreen toggle button in the composer on touch devices with larger screens (e.g. tablets), where it is hidden by default."
