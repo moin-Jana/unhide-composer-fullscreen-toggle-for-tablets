@@ -2,7 +2,7 @@
   "name": "Unhide composer fullscreen toggle for tablets",
   "component": true,
   "authors": "Moin",
-  "about_url": "TODO: Put your theme's public repo or Meta topic URL here",
-  "license_url": "TODO: Put your theme's LICENSE URL here",
+  "about_url": "https://meta.discourse.org/t/unhide-composer-fullscreen-toggle-for-tablets/400433",
+  "license_url": "https://github.com/moin-Jana/unhide-composer-fullscreen-toggle-for-tablets/blob/main/LICENSE",
   "theme_version": "0.0.1"
 }
